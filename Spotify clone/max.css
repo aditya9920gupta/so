@@ -1,0 +1,123 @@
+.long tex{
+    cursor: pointer;
+  position: relative;
+  left: 114vh;
+  margin-top: 2vw;
+  top: 1vw;
+  color: aliceblue;
+  opacity: 0.4;
+  text-decoration: underline solid whitesmoke;
+}
+.bottle1{
+  position: relative;
+  bottom: 5px;
+
+}
+leg{
+  display: flex;
+  gap: 56vw;
+  flex-wrap: wrap;
+}
+.text{
+  color: antiquewhite;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+font-size: larger;
+text-decoration:  underline whitesmoke;
+}
+.mobile1{
+  font-size: medium;
+  opacity: 0.4;
+
+}
+.sexy{
+  height: 14vw;
+  margin: 10px;
+  width:14vw ;
+ 
+}
+.leg img{
+  height: 11vw;
+  width: 12.6vw;
+  overflow: hidden;
+  border: 3px solid black;
+  margin: 10px;
+box-shadow:0 8px 24px rgba(0, 0, 0, .5);;
+
+}
+.sexy1{padding:10px;
+height: 18vw;
+  margin: 10px;
+  width:14.8vw ;
+color: whitesmoke;
+border-radius:3%;
+background-color: #1f1f1f;
+cursor:pointer;
+transition: all 2s;
+
+
+}
+.sexy2:hover{
+  background-color: black;
+}
+.sexy2{
+height:13vw;
+width:14.3vw;
+border:2px solid black;
+border-radius:3%;
+background-color:black;
+margin: 25px;
+}
+nav{
+display: flex;
+width: 100%;
+gap: 120vh;
+
+text-decoration: underline;
+}
+
+.log{
+  color: antiquewhite;
+  text-decoration: underline;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+ 
+}
+.log1{
+ float: inline-end;
+ color: antiquewhite;
+ text-decoration: underline;
+ opacity: 0.4;
+
+}
+.scroller{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: 90vh;
+  border: 2px solid black;
+  
+  
+ 
+  
+}
+.scroller::-webkit-scrollbar {
+  width: 12px;               /* Width of the scrollbar */
+}
+
+.scroller::-webkit-scrollbar-track {
+  background: #2c2c2c;       /* Dark background for the track */
+  border-radius: 10px;        /* Rounded corners for the track */
+}
+
+.scroller::-webkit-scrollbar-thumb {
+  background-color: #555;    /* Dark color for the scrollbar thumb */
+  border-radius: 10px;       /* Rounded corners for the thumb */
+  border: 2px solid #2c2c2c; /* Optional: adds space around the thumb */
+}
+
+/* For Firefox */
+.scroller {
+  scrollbar-width: thin;     /* Thin scrollbar width */
+  scrollbar-color: #555 #2c2c2c;
+}

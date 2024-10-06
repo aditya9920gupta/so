@@ -1,0 +1,113 @@
+@media (max-width:1400px) {
+    .leftbar{
+        position: absolute;
+        width: 233px;
+        left: -100%;
+        transition: all .3s;
+        z-index: 1;
+        margin: 0%;
+        padding: 0%;
+    }
+    .home{
+        width: 156px;
+    }
+    .liabries{
+        width: 179px;
+    }
+    .playlist{
+        width: 200px;
+        height: 200px;
+        
+    }
+    
+    .rightbar{
+        width: 100%;
+    }
+    .hamburger{
+    display: block;
+    }
+    simple .lamao1{position: relative;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+top: 2vw;
+    }
+    .close{
+        display: block;
+        position: relative;
+        right: 49px;
+        cursor: pointer;
+    }
+    main .scroller{
+        min-height: 450px;
+    }
+    leg {
+        display: flex;
+    gap: 43vw;
+    flex-wrap: wrap;
+    }
+    .sexy2 {
+        height: 17vw;
+        width: 21vw;
+        border: 2px solid black;
+        border-radius: 3%;
+        background-color: black;
+        margin: 10px;
+        padding: 0%;
+    }
+    .sexy1 {
+        padding: 10px;
+        height: 28vw;
+        margin: 10px;
+        width: 14.8vw;
+        color: whitesmoke;
+        border-radius: 3%;
+        background-color: #1f1f1f;
+        cursor: pointer;
+        transition: all 2s;
+    }
+    
+    .to{
+        height: 3vw;
+        width: 20vw;
+        padding-top: 10px;
+        padding-left: 5px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    book {
+        display: flex;
+        flex-wrap: wrap;
+        height: 107vw;
+        /* width: 37vw; */
+    }
+    book1 {
+        display: flex;
+        flex-wrap: wrap;
+        /* height: 10vw; */
+        position: relative;
+        bottom: 38vw;
+    }
+  
+        nav1{position: relative;
+            bottom: 34vw;
+            display: flex;
+            width: 100%;
+            gap: 120vh;
+            z-index: 2;
+            text-decoration: underline;
+            gap: 60vw;
+            }
+            nav{
+                gap:60vw;
+            }
+            .range  input{
+                position: relative;
+                top: 10vw;
+                display: flex;
+                right: 25vw;
+            }
+        }
+
+
