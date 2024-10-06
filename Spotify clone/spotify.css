@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.leftbar{
+border: 1px solid black;
+width: 25vw;
+padding: 9px;
+background-color: black;
+
+
+
+
+}
+.hamburger{
+    display: none;
+    cursor: pointer;
+}
+
+.playlist ul li{
+    list-style: none;
+    
+  
+}
+
+simple {
+   padding: 9px;
+}
+.rightbar{
+    border: 2px solid rgb(255, 244, 244);
+     width: 75vw;
+     border-radius: 1%;
+     min-height: 100%;
+background-color: #1f1f1f;
+min-height: 80vh;
+
+}
+.home{
+    border: 1px solid black;
+width: 20vw;
+padding: 31px;
+border-radius: 5%;
+font-family: "Roboto", sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+.logo{
+    margin-bottom: 10px;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    
+}
+.max img{
+    width:19px;
+    display: flex;
+    font-weight:700 ;
+    font-size: 1vw;
+    font-family: "Roboto", sans-serif;   
+    gap: 2vw;
+    
+}
+.max{
+    display: flex;
+    gap: 18px;
+    font-weight:700 ;
+    
+    font-family: "Roboto", sans-serif; 
+  
+    margin-bottom: 25px;
+    
+
+}
+.lock{
+border: 1px solid whitesmoke;
+width:22vw;
+position: relative;
+right: 21px;
+margin-bottom: 22px;
+height: 6vw;
+background-color: #1f1f1f;
+
+
+
+}
+.close{
+    display: none;
+}
+.footer{margin-top: 4vw;
+   
+    gap: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    color: gray;
+    z-index: 2; 
+}
+max button{
+    color: rgb(238, 227, 227);
+    
+}
+simple {
+    display: flex;
+    gap: 50vw;
+   background-color: #121212;
+   width: 100%;
+
+    
+}
+simple img{margin: 9px;
+    gap: 19px;
+    width: 20px;
+    opacity: 0.4;
+    margin: 11px;
+}
+    .lamao1 text {
+    cursor: pointer;
+   opacity:0.4 ;
+    color: aliceblue;
+    padding-top: 8.6px;
+}
+.lamao1 button{
+    margin-left: 25px;
+    width: 6vw;
+    border-radius: 1%;
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 45%;
+    margin: 11px;
+    height: 2vw;
+    
+}
+
+
+.circle img{
+    width: 10vw;
+    height: 10vw;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.to{
+    height: 3vw;
+    width:11vw;
+    padding-top: 10px;
+    padding-left: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+book{
+    display: flex;
+    flex-wrap: wrap;
+}
+.to text{
+    opacity: 0.5;
+}
+main .scroller{
+    min-width: 22vw;
+max-height: 290px;
+min-height: 110px;
+}
+book1{
+    display: flex;
+    
+}
+.poo.leg {
+transition: all 2s;
+
+}
+.poo.leg:hover{
+    background-color: rgb(121, 115, 115);
+    
+
+}
+.long text{
+  font-size: xx-large;
+    font-weight: bold;
+}
